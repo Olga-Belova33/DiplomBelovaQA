@@ -20,7 +20,7 @@
 2. [Возможность в поле "Месяц" ввести значение 00](https://github.com/Olga-Belova33/DiplomBelovaQA/issues/2);
 3. [Возможность в поле "Владелец" ввести спецзнаки ](https://github.com/Olga-Belova33/DiplomBelovaQA/issues/3);
 4. [Возможность в поле "Владелец" ввести Имя на кириллице](https://github.com/Olga-Belova33/DiplomBelovaQA/issues/4);
-5. [Вывод на экран сообщения ОШИБКА и затем УСПЕШНО при вводе данных несуществующей карты](https://github.com/Olga-Belova33/DiplomBelovaQA/issues/5);
+5. [Вывод на экран сообщений ОШИБКА и затем УСПЕШНО при вводе данных несуществующей карты](https://github.com/Olga-Belova33/DiplomBelovaQA/issues/5);
 6. [Вывод на экран сообщения УСПЕШНО при оплате картой со статусом Diclane](https://github.com/Olga-Belova33/DiplomBelovaQA/issues/6);
 
 ## Общие рекомендации
